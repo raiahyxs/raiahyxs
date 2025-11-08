@@ -82,6 +82,7 @@ This repository contains **Jupyter Notebooks** for data analytics, demonstrating
 <div align="center">
 
 💌 **Email:** [rhealyn.vasquez.email](vasquez.rhealyn.dll@gmail.com)
+
 🔗 **Portfolio:** [rhealyn-portfolio](https://rhealyn-portfolio.netlify.app/)
 </div>
 

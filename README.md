@@ -1,138 +1,163 @@
 <div align="center">
 
-# Hi there, I'm Rhealyn Vasquez 👋
+# Hi, I'm Rhealyn Vasquez 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Aspiring+Cloud+Engineer;AWS+re%2FStart+Program+Scholar;Frontend+Developer;Creative+Mind.+Curious+Builder." alt="Animated introduction: Aspiring Cloud Engineer, AWS re/Start Program Scholar, and Frontend Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Aspiring+Cloud+Engineer;AWS+re%2FStart+Program+Scholar;Frontend+Developer;Turning+curiosity+into+something+useful." alt="Aspiring Cloud Engineer, AWS re/Start Program Scholar, and Frontend Developer" />
 
-### ☁️ Exploring the cloud. Building for the web.
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-0891B2?style=for-the-badge)](https://rhealyn-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasquez.rhealyn.dll@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-raiahyxs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiahyxs)
+**Creative by nature. Curious about technology. Growing toward the cloud.**
+
+<br />
+
+![Cloud](https://img.shields.io/badge/☁️_Aspiring_Cloud_Engineer-0F172A?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS_re%2FStart-Scholar-FF9900?style=for-the-badge)
+![Opportunities](https://img.shields.io/badge/Open_to-Opportunities-14B8A6?style=for-the-badge)
+
+<br />
+<br />
+
+[**About Me**](#-about-me) · [**Cloud Journey**](#-my-cloud-journey) · [**Featured Work**](#-featured-work) · [**Connect**](#-lets-connect)
 
 </div>
 
 ---
 
-## 💻 About Me
+## 👩‍💻 About Me
 
-I’m an **aspiring Cloud Engineer** and an **AWS re/Start Program Scholar**, developing my cloud computing skills as I work toward a career in cloud technology.
+I’m an **aspiring Cloud Engineer** and an **AWS re/Start Program Scholar** with a background in frontend development, graphic design, and data analytics.
 
-My background in **frontend development, graphic design, and data analytics** brings together creativity, technical curiosity, and attention to detail. I have hands-on experience with **HTML, CSS, JavaScript, React, and Python**, and I’m expanding my backend development skills with **Django**.
+I enjoy creating responsive websites, exploring patterns in data, and understanding the technology behind digital experiences. My work combines **creativity, attention to detail, and a willingness to keep learning**.
 
-I enjoy building responsive websites, exploring how systems work, and turning ideas into practical digital solutions.
+Currently, I’m developing my **cloud computing skills** and expanding my backend knowledge with **Django**, building on hands-on experience with HTML, CSS, JavaScript, React, and Python.
 
-☁️ **Currently learning:** Cloud computing through the AWS re/Start program.  
-🎯 **Career goal:** Grow into a cloud engineering role and contribute to reliable, useful digital services.  
-🤝 **Open to:** Entry-level opportunities in cloud computing, web development, and technology.
-
----
-
-## ✨ What I Bring
-
-| Focus | What I Offer |
-|:------|:-------------|
-| 💻 **Frontend Development** | Responsive, user-friendly web interfaces using React, JavaScript, HTML, and CSS. |
-| 🎨 **Graphic Design** | Engaging visuals that communicate ideas clearly. |
-| 📊 **Data Analytics** | Data cleaning, exploration, visualization, and predictive modeling. |
-| 🗂️ **Data Entry** | Careful handling of information to keep records accurate and organized. |
-| 🌱 **Continuous Learning** | A willingness to learn, collaborate, and develop practical skills across web and cloud technologies. |
+> ☁️ Working toward a career where I can bring web development and cloud technology together.
 
 ---
 
 ## ☁️ My Cloud Journey
 
-As an **AWS re/Start Program Scholar**, I’m building a foundation in cloud computing and exploring how it connects with my experience in web development.
+<img align="right" src="https://skillicons.dev/icons?i=aws&theme=dark" width="65" alt="Learning AWS" />
 
-I’m interested in understanding how applications are deployed, supported, and maintained in the cloud. My goal is to keep learning, gain practical experience, and grow toward a career as a **Cloud Engineer**.
+### Learning today. Building for tomorrow.
+
+Through the **AWS re/Start program**, I’m developing a foundation in cloud computing and exploring how applications run beyond the browser.
+
+- 📚 **Learning** cloud concepts and strengthening my technical foundation.
+- 🔎 **Exploring** how applications are deployed, supported, and maintained.
+- 🔗 **Connecting** my web development experience with cloud technology.
+- 🎯 **Working toward** an entry-level opportunity in cloud computing.
+
+---
+
+## ✨ What I Bring
+
+| | Focus | My Contribution |
+|:--:|:------|:----------------|
+| 💻 | **Frontend Development** | Responsive web interfaces built with React, JavaScript, HTML, and CSS. |
+| 🎨 | **Graphic Design** | Visuals that communicate ideas clearly and creatively. |
+| 📊 | **Data Analytics** | Data cleaning, exploration, visualization, and predictive modeling. |
+| 🗂️ | **Data Entry** | Accurate, organized records with careful attention to detail. |
+| 🤝 | **Collaboration** | Curiosity, a willingness to learn, and openness to feedback. |
 
 ---
 
 ## 🚀 Featured Work
 
-### 🌍 Travore — Travel Planner Website
+### 🌍 Travore
+**A little planning. A world of possibilities.**
 
-**Travore** helps users plan trips by searching for destinations and adding places they want to visit. It also provides a **5-day weather forecast** for the chosen location, helping users prepare for their travels.
+A travel website that helps users search for destinations, add places they want to visit, and check a **5-day weather forecast** for their chosen location.
 
-**Tech Stack:** React · JavaScript · HTML · CSS · OpenWeather API
+`React` `JavaScript` `HTML` `CSS` `OpenWeather API`
 
-[🌤️ Explore Travore →](https://travore.netlify.app/)
+[![Explore Travore](https://img.shields.io/badge/Explore_Travore_↗-0EA5E9?style=for-the-badge)](https://travore.netlify.app/)
 
----
+<br />
 
-### 💼 Personal Portfolio
+### 🎨 Personal Portfolio
+**A space for the things I create.**
 
-A personal website showcasing my work, skills, and growth across:
+A collection of my work in **graphic design, programming, and web development**, showcasing my skills and creative approach.
 
-- 🎨 Graphic Design
-- 💻 Programming
-- 🌐 Web Development
+`Graphic Design` `Web Development` `Creative Work`
 
-[🌟 Visit My Portfolio →](https://rhealyn-portfolio.netlify.app/)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio_↗-8B5CF6?style=for-the-badge)](https://rhealyn-portfolio.netlify.app/)
 
----
-
-### 📊 Data Analytics
-
-A collection of **Jupyter Notebooks** exploring real-world datasets through:
-
-- Data cleaning, exploration, and visualization.
-- Statistical analysis and predictive modeling.
-- Interpretation of patterns, trends, and model results.
-
-**Tools:** pandas · NumPy · Matplotlib · Seaborn · scikit-learn
-
-[📂 Explore the Repository →](https://github.com/raiahyxs/Data-Analytics)
-
----
-
-## 🧰 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git,github,netlify&perline=9" alt="HTML, CSS, JavaScript, React, Python, Django, Git, GitHub, and Netlify" />
-</p>
+<br />
 
 ### 📊 Data Analytics
+**Finding the story behind the numbers.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-</p>
+A collection of Jupyter Notebooks exploring real-world datasets through **data cleaning, visualization, statistical analysis, and predictive modeling**.
 
-### ☁️ Currently Learning
+`Python` `pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="Learning AWS" />
-  <br />
-  <strong>AWS re/Start Program Scholar</strong>
-</p>
+[![Explore Notebooks](https://img.shields.io/badge/Explore_Notebooks_↗-14B8A6?style=for-the-badge)](https://github.com/raiahyxs/Data-Analytics)
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 My Toolkit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raiahyxs&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Rhealyn's GitHub statistics" />
+### Web Development
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiahyxs&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages across GitHub repositories" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django&theme=dark" alt="HTML, CSS, JavaScript, React, Python, and Django" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,netlify&theme=dark" alt="Git, GitHub, and Netlify" />
+
+### Data & Analysis
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Currently learning AWS" />
+
+**Cloud computing through AWS re/Start**
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 💬 Beyond the Code
 
-I’m eager to connect with people working in **cloud computing, web development, and technology**. If you have an opportunity to collaborate or a role where I can contribute and grow, let’s talk!
-
-📧 **Email:** [vasquez.rhealyn.dll@gmail.com](mailto:vasquez.rhealyn.dll@gmail.com)  
-🌐 **Portfolio:** [rhealyn-portfolio.netlify.app](https://rhealyn-portfolio.netlify.app/)  
-💻 **GitHub:** [github.com/raiahyxs](https://github.com/raiahyxs)
+- 🎨 I enjoy bringing creativity into technical work.
+- 🔍 I’m curious about how things work behind the scenes.
+- 🌱 I value steady progress and learning through practice.
+- ☁️ I’m excited to grow at the intersection of web development and cloud computing.
 
 ---
 
-<p align="center">
-  ☁️ <i>“Build with curiosity. Create with purpose. Keep learning.”</i>
-</p>
+## 🌐 Let's Connect
+
+<div align="center">
+
+**Have an opportunity or an idea to build together?**
+
+I’m open to entry-level roles in **cloud computing, web development, and technology**,  
+where I can contribute, learn from others, and grow.
+
+<br />
+
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasquez.rhealyn.dll@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-0891B2?style=for-the-badge)](https://rhealyn-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiahyxs)
+
+<br />
+
+📧 **vasquez.rhealyn.dll@gmail.com**
+
+---
+
+*Build with curiosity. Create with purpose. Keep learning.*
+
+☁️ &nbsp; 💻 &nbsp; 🎨
+
+</div>
